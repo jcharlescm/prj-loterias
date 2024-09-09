@@ -1,2 +1,2 @@
-# prj-Loterias
-Meua esquemas de Loterias
+# prj-loterias
+ Meu projeto de esquemas da loteria

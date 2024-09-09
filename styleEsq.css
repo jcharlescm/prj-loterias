@@ -1,0 +1,18 @@
+
+table {
+    border: 0px;
+}
+
+td {
+    font-size: 25px;
+}
+
+div {
+    border: 1;
+    background-color: #B0E0E6;
+    width: 270px;
+}
+
+.text01 {
+    font-size: 20px;
+}

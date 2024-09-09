@@ -1,0 +1,6 @@
+Entrar no GitHub DeskTop
+* Definir uma pasta para o repositório(Pode criar a pasta com WinExplore, cmd, VSCode, etc)
+
+1º - Clonar repositório (GitHub DeskTop)
+https://github.com/jcharlescm/prj-loterias.git
+
